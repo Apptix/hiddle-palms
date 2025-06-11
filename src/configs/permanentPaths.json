@@ -1,0 +1,173 @@
+{
+  "root": {
+    "parent": "",
+    "breadcrumbParent": "",
+    "path": "/",
+    "permission": "any",
+    "name": "routes.home.name",
+    "icon": "atom"
+  },
+  "reset": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "reset",
+    "permission": "any",
+    "name": "routes.reset.name",
+    "icon": "do-not-enter"
+  },
+  "auth": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "auth",
+    "permission": "any",
+    "name": "Auth",
+    "icon": "sign-in"
+  },
+  "login": {
+    "parent": "auth",
+    "breadcrumbParent": "auth",
+    "path": "login",
+    "permission": "any",
+    "name": "routes.login.name",
+    "icon": "sign-in"
+  },
+  "logout": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "logout",
+    "permission": "any",
+    "name": "routes.logout.name",
+    "icon": "sign-out"
+  },
+  "register": {
+    "parent": "auth",
+    "breadcrumbParent": "auth",
+    "path": "register",
+    "permission": "any",
+    "name": "routes.register.name",
+    "icon": "user-circle"
+  },
+  "verify": {
+    "parent": "auth",
+    "breadcrumbParent": "auth",
+    "path": "verify",
+    "permission": "any",
+    "name": "routes.verify.name",
+    "icon": "user-circle"
+  },
+  "forgotPassword": {
+    "parent": "auth",
+    "breadcrumbParent": "auth",
+    "path": "forgot-password",
+    "permission": "any",
+    "name": "routes.forgotPassword.name",
+    "icon": "question"
+  },
+  "resetPassword": {
+    "parent": "auth",
+    "breadcrumbParent": "auth",
+    "path": "reset-password",
+    "permission": "any",
+    "name": "routes.resetPassword.name"
+  },
+  "setupTOTP": {
+    "parent": "auth",
+    "breadcrumbParent": "auth",
+    "path": "setup-mfa",
+    "permission": "any",
+    "name": "routes.setupTOTP.name"
+  },
+  "callback": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "callback",
+    "permission": "any",
+    "name": "routes.callback.name",
+    "icon": "sort-alt"
+  },
+  "extAuthenticate": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "ext-authenticate",
+    "permission": "any",
+    "name": "Authenticate",
+    "icon": "sign-in"
+  },
+  "extVerify": {
+    "parent": "extAuthenticate",
+    "breadcrumbParent": "extAuthenticate",
+    "path": "ext-verify",
+    "permission": "any",
+    "name": "routes.verify.name",
+    "icon": "user-circle"
+  },
+  "extAuthenticated": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "ext-authenticated",
+    "permission": "any",
+    "name": "Authenticated",
+    "icon": "user-circle"
+  },
+  "restApi": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "rest-api",
+    "permission": "any",
+    "name": "routes.restApi.name",
+    "icon": "user-circle"
+  },
+  "notifications": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "notifications",
+    "permission": "any",
+    "icon": "bell",
+    "name": "routes.userMenu.notifications"
+  },
+  "settings": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "settings",
+    "permission": "any",
+    "icon": "tools",
+    "name": "routes.settings.name",
+    "description": "routes.settings.description"
+  },
+  "profile": {
+    "parent": "settings",
+    "breadcrumbParent": "settings",
+    "path": "profile",
+    "permission": "any",
+    "icon": "user",
+    "name": "routes.profile.name",
+    "description": "routes.profile.description"
+  },
+  "applications": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "applications",
+    "permission": "any",
+    "icon": "",
+    "name": "routes.applications.name",
+    "description": "routes.applications.description"
+  },
+  "users": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "users",
+    "permission": "any",
+    "icon": "",
+    "name": "routes.users.name",
+    "description": "routes.users.description"
+  },
+  "documents": {
+    "parent": "root",
+    "breadcrumbParent": "root",
+    "path": "documents",
+    "permission": "any",
+    "icon": "",
+    "name": "routes.documents.name",
+    "description": "routes.documents.description"
+  }
+}

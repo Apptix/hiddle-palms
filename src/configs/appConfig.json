@@ -1,0 +1,19 @@
+{
+    "PROJECT_NAME": "",
+    "PROJECT_SHORT_NAME": "",
+    "ENVIRONMENT": "",
+    "VERSION": "",
+    "region": "",
+    "userPool": "",
+    "API_gateway": "",
+    "clientId": "",
+    "TOKEN_SCOPES_ARRAY": [
+        "",
+        "",
+        ""
+    ],
+    "DR_Message": "",
+    "isDRMode": ""
+}
+
+

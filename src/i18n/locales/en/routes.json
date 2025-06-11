@@ -1,0 +1,46 @@
+{
+  "home": {
+    "name": "Home"
+  },
+  "restApi": {
+    "name": "Rest API"
+  },
+  "discover": {
+    "name": "Discover"
+  },
+  "explore": {
+    "name": "Explore"
+  },
+  "manage": {
+    "name": "Manage"
+  },
+  "userMenu": {
+    "profileAndSettings": "Profile & Settings",
+    "switchRole": "Switch Role",
+    "switchAWS": "Switch to AWS console",
+    "accessRequests": "Access Requests",
+    "resourceSearch": "Resource Search",
+    "notifications": "Notifications",
+    "restApi": "Rest API"
+  },
+  "settings": {
+    "name": "$t(routes.userMenu.profileAndSettings)",
+    "description": "Manage your profile and settings"
+  },
+  "profile": {
+    "name": "Profile",
+    "description": "Manage your profile"
+  },
+  "applications": {
+    "name": "Applications",
+    "description": "Manage your Applications"
+  },
+  "users": {
+    "name": "Users",
+    "description": "Manage your Users"
+  },
+  "documents": {
+    "name": "Documents",
+    "description": "Manage your Documents"
+  }
+}

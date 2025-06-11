@@ -1,0 +1,27 @@
+.emptyState {
+  @apply flex flex-col items-center justify-center p-8 text-center;
+}
+
+.emptyStateImage {
+  @apply mb-6 h-40 w-40;
+}
+
+.emptyStateImage.emptyData {
+  content: url("../../../assets/images/empty-data.svg");
+}
+
+.emptyStateImage.noFile {
+  content: url("../../../assets/images/no-file.svg");
+}
+
+.emptyStateImage.noAccess {
+  content: url("../../../assets/images/no-access.svg");
+}
+
+.emptyStateImage.noConnections {
+  content: url("../../../assets/images/no-connections.svg");
+}
+
+.emptyStateContentWrapper {
+  @apply flex flex-col items-center gap-6;
+}

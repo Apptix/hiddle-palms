@@ -1,0 +1,9 @@
+.errorMessage {
+    @apply flex items-center gap-2 text-error-500 w-full;
+}
+
+:global(.dark) {
+    .errorMessage {
+        @apply text-red-400;
+    }
+}

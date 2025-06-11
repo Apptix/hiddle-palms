@@ -1,0 +1,10 @@
+{
+    "title": "Documents",
+    "description": "Upload or view documents, organize and use documents while submitting applications",
+    "uploadDocuments": "Upload Documents",
+    "listing": {
+        "fileName" : "File Name",
+        "size" : "Size",
+        "uploadDateTime": "Upload Date & Time"
+    }
+}

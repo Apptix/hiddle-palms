@@ -1,0 +1,46 @@
+{
+  "heading": "Profile Detail",
+  "subHeading": "Manage your account information and security settings in one place.",
+  "county": "County",
+  "password": "Password",
+  "pwdManagementSubtext": "Update your current password to a new one.",
+  "changePassword": "Change Password",
+  "changeAccountPassword": "Change Account Password",
+  "accountPassword": "Account Password",
+  "profileSettings": "Profile Settings",
+  "profileSettingsSubtext": "Update your profile information.",
+  "accountSettings": "Account Settings",
+  "accountSettingsSubtext": "Update your account details, security and notification preferences.",
+  "errorUpdating": "Error updating data, try again !",
+  "passwordItem": {
+    "accountPassword": "Change Account Password",
+    "dwhPassword": "Reset DWH Password"
+  },
+  "userId": "User Id",
+  "username": "User Name",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "emailId": "Email Id",
+  "phoneNumber": "Phone Number",
+  "address": "Address",
+  "oldPassword": "Old Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm Password",
+  "profileName": "Profile Name",
+  "invalidName": "Invalid Name",
+  "code": "Code",
+  "qrCode": "QR Code",
+  "secretCode": "Secret Code",
+  "verifyCode": "Verify Code",
+  "editProfile": "Edit Profile",
+  "enterCode": "Enter Code",
+
+  "passwordValidation": {
+    "minLength": "Password must be at least 12 characters",
+    "uppercase": "Password must contain at least one uppercase letter",
+    "lowercase": "Password must contain at least one lowercase letter",
+    "number": "Password must contain at least one number",
+    "special": "Password must contain at least one special character",
+    "helperText": "Must be at least 12 characters including 1 Number, 1 Special character and 1 Uppercase."
+  }
+}

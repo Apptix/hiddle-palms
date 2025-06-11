@@ -1,0 +1,19 @@
+{
+    "title": "$t(routes.userMenu.restApi)",
+    "apiDocs": "API Documentation",
+    "settings": "Request Header Settings",
+    "authorization": "Authorization Token",
+    "landingText": "Send a request to the API endpoint and view the response",
+    "copy": "Copy to Clipboard",
+    "copied": "Copied",
+    "dataCopied": "Data copied !",
+    "download": "Download",
+    "invalidJSONBody": "Invalid JSON body",
+    "requestBody": "Request Body",
+    "role_id": "Role Id",
+    "selectRequestType": "HTTP Method",
+    "send": "Send",
+    "status": "Status",
+    "unknown": "Unknown",
+    "apiEndpoint": "API Endpoint"
+}

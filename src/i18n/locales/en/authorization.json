@@ -1,0 +1,20 @@
+{
+  "whoHasAccess": "Who has Access",
+  "share": "Share {{resourceName}}",
+  "shareAndCollaborate": "Share and Collaborate",
+  "tagName": "Tag Name",
+  "remove": "Remove",
+  "accessType": "Access Type",
+  "domainAccess": "Domain Access",
+  "datasetAccess": "Dataset Access",
+  "addDatasetLevelAccess": "Add $t(static:dataset) level access",
+  "addDomainLevelAccess": "Provide $t(static:domain) Access",
+  "fullAccess": "Full Access",
+  "editor": "Editor",
+  "readOnly": "Read Only",
+  "shareToUsers": "Shared with {{totalUser}} users/tags",
+  "tooltip": {
+    "addDomainLevelAccess": "This will grant the user/tag access to the domain and tenant if they do not already have it.",
+    "addDatasetLevelAccess": "This will grant the user/tag access to the dataset."
+  }
+}

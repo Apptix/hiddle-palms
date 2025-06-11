@@ -1,0 +1,7 @@
+{
+    "userName": "User Name",
+    "userId": "User Id",
+    "role": "Role",
+    "title": "User Management",
+    "description": "Manage all users who have access to the system. Assign roles, update permissions, and monitor user activity to ensure secure and efficient access control."
+}
